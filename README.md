@@ -1,2 +1,2 @@
-# World-SQL-Queries-1
-Sql query on real life sql databases
+# World-SQL-Queries
+Real world sql queries
